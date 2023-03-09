@@ -4,7 +4,7 @@ This project aims to classify fashion images into one of 4 categories: `Apparel`
 
 ## Data
 
-Link to the [dataset](https://www.kaggle.com/competitions/fiu-cap5610-spring22/data)
+Link to the [dataset](https://www.kaggle.com/competitions/fiu-cap5610-spring22/data).
 
 ## Test Results
 
